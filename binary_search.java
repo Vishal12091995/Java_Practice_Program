@@ -1,5 +1,5 @@
 import java.io.*;
-public class binary_search {
+public class bubble_sort {
     public static void main(String[] args) {
         int arr[]={6,3,8,9,2,12,15,13};
         for(int i=0;i<arr.length;i++){
